@@ -1,0 +1,95 @@
+{
+    "palavras": [
+        {
+            "codigo": "Like",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Like",
+            "traducao": "Gostar"
+        },
+        {
+            "codigo": "Water",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Water",
+            "traducao": "Agua"
+        },
+        {
+            "codigo": "Table",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Table",
+            "traducao": "Mesa"
+        },
+        {
+            "codigo": "Pencil",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Pencil",
+            "traducao": "Lapis"
+        },
+        {
+            "codigo": "Screen",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Screen",
+            "traducao": "Tela"
+        },
+        {
+            "codigo": "Far",
+            "cod_idioma": "Ingles",
+            "nivel": 2,
+            "descricao": "Far",
+            "traducao": "Longe"
+        },
+        {
+            "codigo": "Day",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Day",
+            "traducao": "Dia"
+        },
+        {
+            "codigo": "Because",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Because",
+            "traducao": "Porque"
+        },
+        {
+            "codigo": "Dog",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Dog",
+            "traducao": "Cachorro"
+        },
+        {
+            "codigo": "Cat",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Cat",
+            "traducao": "Gato"
+        },
+        {
+            "codigo": "Heat",
+            "cod_idioma": "Ingles",
+            "nivel": 3,
+            "descricao": "Heat",
+            "traducao": "Calor"
+        },
+        {
+            "codigo": "Duck",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Duck",
+            "traducao": "Pato"
+        },
+        {
+            "codigo": "Fish",
+            "cod_idioma": "Ingles",
+            "nivel": 1,
+            "descricao": "Fish",
+            "traducao": "Peixe"
+        }
+    ]
+}

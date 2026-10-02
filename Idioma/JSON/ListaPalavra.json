@@ -1,0 +1,82 @@
+{
+    "palavras": [
+        {
+            "codigo": "Like",
+            "posicao": 0,
+            "esq": "Far",
+            "dir": "Water"
+        },
+        {
+            "codigo": "Far",
+            "posicao": 5,
+            "esq": "Day",
+            "dir": "Heat"
+        },
+        {
+            "codigo": "Day",
+            "posicao": 6,
+            "esq": "Because",
+            "dir": "Dog"
+        },
+        {
+            "codigo": "Because",
+            "posicao": 7,
+            "esq": null,
+            "dir": "Cat"
+        },
+        {
+            "codigo": "Cat",
+            "posicao": 9,
+            "esq": null,
+            "dir": null
+        },
+        {
+            "codigo": "Dog",
+            "posicao": 8,
+            "esq": null,
+            "dir": "Duck"
+        },
+        {
+            "codigo": "Duck",
+            "posicao": 11,
+            "esq": null,
+            "dir": null
+        },
+        {
+            "codigo": "Heat",
+            "posicao": 10,
+            "esq": "Fish",
+            "dir": null
+        },
+        {
+            "codigo": "Fish",
+            "posicao": 12,
+            "esq": null,
+            "dir": null
+        },
+        {
+            "codigo": "Water",
+            "posicao": 1,
+            "esq": "Table",
+            "dir": null
+        },
+        {
+            "codigo": "Table",
+            "posicao": 2,
+            "esq": "Pencil",
+            "dir": null
+        },
+        {
+            "codigo": "Pencil",
+            "posicao": 3,
+            "esq": null,
+            "dir": "Screen"
+        },
+        {
+            "codigo": "Screen",
+            "posicao": 4,
+            "esq": null,
+            "dir": null
+        }
+    ]
+}

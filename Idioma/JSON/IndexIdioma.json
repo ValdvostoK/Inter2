@@ -1,0 +1,32 @@
+{
+    "idiomas": [
+        {
+            "codigo": "Ingles",
+            "descricao": "Ingles"
+        },
+        {
+            "codigo": "Alemao",
+            "descricao": "Alemao"
+        },
+        {
+            "codigo": "Espanhol",
+            "descricao": "Espanhol"
+        },
+        {
+            "codigo": "Frances",
+            "descricao": "Frances"
+        },
+        {
+            "codigo": "Russo",
+            "descricao": "Russo"
+        },
+        {
+            "codigo": "Japones",
+            "descricao": "Japones"
+        },
+        {
+            "codigo": "Italiano",
+            "descricao": "Italiano"
+        }
+    ]
+}

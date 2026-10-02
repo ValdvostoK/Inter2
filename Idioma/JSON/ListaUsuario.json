@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "codigo": "Marcos",
+            "posicao": 0,
+            "esq": "Barbara",
+            "dir": "Nicholas"
+        },
+        {
+            "codigo": "Barbara",
+            "posicao": 1,
+            "esq": "Admin",
+            "dir": null
+        },
+        {
+            "codigo": "Admin",
+            "posicao": 4,
+            "esq": null,
+            "dir": null
+        },
+        {
+            "codigo": "Nicholas",
+            "posicao": 3,
+            "esq": null,
+            "dir": null
+        }
+    ]
+}

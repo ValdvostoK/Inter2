@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+        {
+            "codigo": "Marcos",
+            "nome": "Marcos",
+            "senha": "python",
+            "cod_idioma": "Italiano",
+            "nivel": 1,
+            "pontos_atual": 0
+        },
+        {
+            "codigo": "Barbara",
+            "nome": "Barbara",
+            "senha": "cachorro",
+            "cod_idioma": "Ingles",
+            "nivel": 3,
+            "pontos_atual": 228
+        },
+        {
+            "codigo": 0,
+            "nome": "Nicholas",
+            "senha": "moto",
+            "cod_idioma": "Alemao",
+            "nivel": 3,
+            "pontos_atual": 200
+        },
+        {
+            "codigo": "Nicholas",
+            "nome": "Nicholas",
+            "senha": "capacete",
+            "cod_idioma": "Russo",
+            "nivel": 1,
+            "pontos_atual": 0
+        },
+        {
+            "codigo": "Admin",
+            "nome": "Admin",
+            "senha": "admin",
+            "cod_idioma": "Espanhol",
+            "nivel": 1,
+            "pontos_atual": 0
+        }
+    ]
+}

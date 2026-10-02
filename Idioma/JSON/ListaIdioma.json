@@ -1,0 +1,46 @@
+{
+    "idiomas": [
+        {
+            "codigo": "Ingles",
+            "posicao": 0,
+            "esq": "Alemao",
+            "dir": "Russo"
+        },
+        {
+            "codigo": "Alemao",
+            "posicao": 1,
+            "esq": null,
+            "dir": "Espanhol"
+        },
+        {
+            "codigo": "Espanhol",
+            "posicao": 2,
+            "esq": null,
+            "dir": "Frances"
+        },
+        {
+            "codigo": "Frances",
+            "posicao": 3,
+            "esq": null,
+            "dir": null
+        },
+        {
+            "codigo": "Russo",
+            "posicao": 4,
+            "esq": "Japones",
+            "dir": null
+        },
+        {
+            "codigo": "Japones",
+            "posicao": 5,
+            "esq": "Italiano",
+            "dir": null
+        },
+        {
+            "codigo": "Italiano",
+            "posicao": 6,
+            "esq": null,
+            "dir": null
+        }
+    ]
+}
